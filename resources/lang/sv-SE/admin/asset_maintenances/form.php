@@ -6,7 +6,7 @@
         'start_date'             => 'Startad',
         'completion_date'        => 'Slutförd',
         'cost'                   => 'Kostnad',
-        'is_warranty'            => 'Förbättring av garanti',
+        'is_warranty'            => 'Garanti ärende',
         'asset_maintenance_time' => 'Dagar',
         'notes'                  => 'Anteckningar',
         'update'                 => 'Uppdatera',

@@ -7,5 +7,5 @@ return array(
     'manager'                   => 'Chef',
     'location'                  => 'Plats',
     'create'                    => 'Skapa avdelning',
-    'update'                    => 'Uppdateringsavdelning',
+    'update'                    => 'Uppdatera avdelning',
     );

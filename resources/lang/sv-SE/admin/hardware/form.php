@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'bulk_delete'		=> 'Bekräfta storlekar för borttagning av bulk',
+    'bulk_delete'		=> 'Bekräfta bulk borttagning',
   'bulk_delete_help'	=> 'Granska tillgångarna för delad borttagning nedan. En gång raderas kan dessa tillgångar återställas, men de kommer inte längre att vara associerade med några användare de tilldelas för närvarande.',
-  'bulk_delete_warn'	=> 'Du håller på att ta bort: asset_count-tillgångar.',
-    'bulk_update'		=> 'Bulk Update Assets',
+  'bulk_delete_warn'	=> 'Du håller på att ta bort :asset_count-tillgångar.',
+    'bulk_update'		=> 'Bulk Uppdatera tillgång',
     'bulk_update_help'	=> 'I det här formuläret kan du uppdatera flera tillgångar på en gång. Fyll bara i de fält du behöver ändra. Alla fält som lämnas tomma kommer att förbli oförändrade.',
     'bulk_update_warn'	=> 'Du håller på att redigera egenskaperna hos: asset_count-tillgångar.',
     'checkedout_to'		=> 'Utcheckad till',
@@ -15,7 +15,7 @@ return [
     'create'			=> 'Skapa Tillgång',
     'date'				=> 'Köpdatum',
     'depreciation'	    => 'Avskrivning',
-    'depreciates_on'	=> 'Depreciates On',
+    'depreciates_on'	=> 'Avskrivningsdatum',
     'default_location'	=> 'Standard plats',
     'eol_date'			=> 'EOL Datum',
     'eol_rate'			=> 'EOL-hastighet',
